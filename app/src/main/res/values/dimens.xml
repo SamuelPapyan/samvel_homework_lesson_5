@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="the_360dp">360dp</dimen>
+    <dimen name="the_300dp">300dp</dimen>
+    <dimen name="the_20sp">20sp</dimen>
+    <dimen name="the_20dp">20dp</dimen>
+    <dimen name="the_16dp">16dp</dimen>
+    <dimen name="the_16sp">16sp</dimen>
+</resources>
